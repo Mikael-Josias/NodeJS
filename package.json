@@ -1,0 +1,23 @@
+{
+  "name": "NodeJS",
+  "version": "1.0.0",
+  "description": "A lot of NodeJs Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikael-Josias/NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikael-Josias/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Mikael-Josias/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
