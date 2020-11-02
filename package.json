@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/Mikael-Josias/NodeJS#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "mongose": "0.0.2-security"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
